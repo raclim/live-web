@@ -1,0 +1,25 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+#header {
+  margin: 1.37em 1em;
+  font-size: 10em;
+}
+
+#yesButton {
+  margin: 0.2em 0.2em;
+  width: 3em;
+  height: 1.3em;
+  border: 0;
+  border-radius: 0.5em;
+  text-align: center;
+  background-color: pink;
+  font-size: 5em;
+}
+
+#yesButton:hover {
+  border: 5px solid pink;
+  background-color: white;
+}
