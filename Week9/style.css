@@ -1,0 +1,12 @@
+.container {
+  margin: 40px 20px;
+}
+
+.videoContainer {
+  margin: 5px 10px;
+}
+
+.oVidContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}

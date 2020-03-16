@@ -1,0 +1,14 @@
+html {
+  font-family: 'Fredoka One', cursive;
+  color: #0076D6;
+  text-align: center;
+}
+
+.container {
+  margin: 30px 200px;
+}
+
+#mycanvas.p5Canvas {
+  margin: 10px 55px;
+  box-shadow: 10px 10px 8px #ff9ed4;
+}

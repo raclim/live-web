@@ -1,0 +1,7 @@
+html {
+  background-color: #f7f5f5;
+}
+#mycanvas {
+  margin: 4em 20em;
+  box-shadow: 10px 10px 5px #ebc0c2;
+}
