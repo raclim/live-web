@@ -3,14 +3,17 @@
   margin: 5% 10%;
   padding: 8% 15%;
   text-align: center;
-  border: 4px ridge pink;
-  box-shadow: 10px 10px 3px lightgray;
+  border: 4px ridge black;
+  border-radius: 2rem;
+  box-shadow: 10px 10px 0 lightgray;
 }
 
 .mainText {
   font-family: Helvetica;
   font-size: 30px;
   font-style: italic;
+  background-color: black;
+  color: white;
 }
 
 .enterButton {
